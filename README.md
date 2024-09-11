@@ -1,2 +1,2 @@
 # static_webpage
-It is a simple static webpage for online footwear.
+It is a simple static webpage for online footwear shopping.
